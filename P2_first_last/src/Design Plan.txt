@@ -5,3 +5,11 @@ Due: 3/12/25 11:59pm
 Ater reading the specs, start populating
 a list of things you think you might have to
 do to finish this project.
+
+1) read the specs - understand the problem
+2) Understand map-base input files
+
+Design Plan -
+1.) layout the methods needed for the project. 2DArrays, Doublylinkedlist, Stacks, 3DArrays, checkkeys 
+2.) establish all movable spaces in the maze. Through keyChecker
+3.)
