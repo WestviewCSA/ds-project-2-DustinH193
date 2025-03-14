@@ -9,7 +9,8 @@ do to finish this project.
 1) read the specs - understand the problem
 2) Understand map-base input files
 
-Design Plan -
-1.) layout the methods needed for the project. 2DArrays, Doublylinkedlist, Stacks, 3DArrays, checkkeys 
-2.) establish all movable spaces in the maze. Through keyChecker
-3.)
+Design Plan - P2
+	-- layout the methods needed for the project. Arraylists, Doublylinkedlist, Stacks, 3DArrays, checkkeys 
+ 	-- establish all movable spaces in the maze. Through methods Tile and File which all are stored in the Map
+ 	-- Tile is  
+ 	--
